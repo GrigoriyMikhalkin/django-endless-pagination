@@ -1,3 +1,5 @@
+##This is fork of django-endless-pagination. Only change is that it made compatible with Django 1.9/Python3.4
+
 Django Endless Pagination can be used to provide Twitter-style or
 Digg-style pagination, with optional Ajax support and other features
 like multiple or lazy pagination.
